@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment9</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email Address</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="contact">Contact Number</string>
+    <string name="dob">Birth Date (dd/mm/yyyy)</string>
+    <string name="address">Permenant Address</string>
+    <string name="interest">Interested In : </string>
+    <string name="tech">Technical</string>
+    <string name="nonTech">Non-Technical</string>
+    <string name="sports">Sports</string>
+    <string name="save">Save</string>
+    <string name="nameDemo">Manali Modi</string>
+    <string name="course_demo">Computer Science</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="view">View Details</string>
+    <string name="update">Update</string>
+</resources>
